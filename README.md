@@ -1,7 +1,11 @@
-### Hi there 👋
+### Greetings 👋
 
- 🔭 I’m currently working with clients on their shopify stores
-- 🌱 I’m always learning new technologies related to web development and machine learning.
-- 👯 I’m looking to collaborate on javascript libraries.
-- 💬 Ask me about anything related to web development, especially shopify.
-- 📫 How to reach me: ryan@greenlightcoding.net
+🔭 Currently, I'm engaged in working with clients on their Shopify stores.
+
+🌱 I'm constantly expanding my knowledge in web development and machine learning technologies.
+
+👯 I'm seeking collaborations on JavaScript libraries,shopify related problems and frontend development.
+
+💬 Feel free to inquire about anything related to web development, particularly Shopify.
+
+📫 Reach me at: ryan@greenlightcoding.net
