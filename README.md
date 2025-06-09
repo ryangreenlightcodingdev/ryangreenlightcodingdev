@@ -1,4 +1,5 @@
 Greetings 👋
+
 🔭 Currently working with clients on full-stack web applications and internal tools.
 
 🌱 Continuously expanding my skill set in modern web development and machine learning technologies.
