@@ -1,11 +1,13 @@
-Greetings 👋
+Hi, I’m Ryan.
 
-🔭 Currently working with clients on full-stack web applications and internal tools.
+I design and build full-stack web applications that blend clean architecture, thoughtful design, and scalable infrastructure. My work spans frontend systems, backend APIs, and automation tools that make data and interfaces work seamlessly together.
 
-🌱 Continuously expanding my skill set in modern web development and machine learning technologies.
+I’m especially interested in the intersection of modern web development, distributed systems, and emerging AI tooling — finding practical ways to bring intelligence into everyday software.
 
-👯 Open to collaborating on JavaScript libraries, frontend architecture, and backend APIs.
+If you’re building something ambitious, I’d love to hear from you: ryan@greenlightcoding.netHi, I’m Ryan.
 
-💬 Feel free to reach out if you're working on interesting web projects or need a reliable engineer.
+I design and build full-stack web applications that blend clean architecture, thoughtful design, and scalable infrastructure. My work spans frontend systems, backend APIs, and automation tools that make data and interfaces work seamlessly together.
 
-📫 Reach me at: ryan@greenlightcoding.net
+I’m especially interested in the intersection of modern web development, distributed systems, and emerging AI tooling — finding practical ways to bring intelligence into everyday software.
+
+If you’re building something ambitious, I’d love to hear from you: ryan@greenlightcoding.net
